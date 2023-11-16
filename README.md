@@ -43,4 +43,4 @@ Esta classe gerencia as operações do usuário, incluindo login, registro e log
 <strong>_getMyName(): </strong>Obtém o nome do usuário.<br>
 
 # Considerações Finais
-Este sistema de chamados é um ponto de partida básico e pode ser expandido com mais recursos, como páginas de perfil, gerenciamento de chamados, etc. Certifique-se de configurar o banco de dados antes de usar o sistema.
+Este sistema de login é um ponto de partida básico e pode ser expandido com mais recursos, como páginas de perfil, gerenciamento de usuarios, etc. Certifique-se de configurar o banco de dados antes de usar o sistema.
